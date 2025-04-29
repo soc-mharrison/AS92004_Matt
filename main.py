@@ -1,9 +1,9 @@
-'''
+"""
 Week 6 Quiz
 by Matt Harrison
 Date: Tues 6.03.2025
 Version 1
-'''
+"""
 # setup variables
 msg = "What is the kupu for: "
 score = 0
